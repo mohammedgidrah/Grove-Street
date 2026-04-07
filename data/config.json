@@ -1,0 +1,19 @@
+{
+  "muteRoleId": "1396532326380474468",
+  "baseVoiceChannelId": "1394962252016390144",
+  "adminRoleId": "1395038011103641670",
+  "logChannelId": null,
+  "autoCreateLogs": true,
+  "logChannels": {
+    "roleLogs": "1432271157049950269",
+    "roomLogs": "1432271157851324476",
+    "joinleaveLogs": "1432271159600353280",
+    "memberLogs": "1432271160762044446",
+    "voiceLogs": "1432271161537990769",
+    "settingLogs": "1432271162435698688",
+    "commandLogs": "1432271163836338197",
+    "messageLogs": "1432271164780052521",
+    "ticketLogs": "1432271165979885621"
+  },
+  "lolVoiceChannelId": "1432459406943191110"
+}

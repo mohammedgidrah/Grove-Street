@@ -1,0 +1,121 @@
+{
+  "options": [
+    {
+      "name": "تكت المساعده🤷🏻‍♂️",
+      "initialMessage": "مرحبا بك في تكت المساعده، اتمني منك انتظار ادمن للمساعده و حل مشاكلك للسيرفر او البوت، تستطيع ايضا استخدام الذكاء الاصطناعي الخاص بنا ان كان اي مساعده في البرمجه او اي لغة برمجه \n\n\nWelcome to the help ticket, I hope you wait for an admin to help and solve your problems with the server or the bot. You can also use our artificial intelligence if you need any help with programming or any programming language.",
+      "createdAt": 1761647218681
+    },
+    {
+      "name": "بوت خاص 🤖",
+      "initialMessage": "مرحبا بك اتمني منك انتظار المبرمج الذي سيستلم التكت لعمل البوت الخاص بك المطلوب \n\nWelcome, I hope you wait for the programmer who will receive the ticket to create your required bot",
+      "createdAt": 1761647251435
+    }
+  ],
+  "tickets": [
+    {
+      "id": "cd7fb9bc49452cf5",
+      "openerId": "900481804371394662",
+      "threadId": "1432038501473456351",
+      "optionName": "hi hi",
+      "createdAt": 1761494985250,
+      "closedAt": 1761495044408,
+      "mentionCount": 1,
+      "mentionTimestamps": [
+        1761494989880
+      ]
+    },
+    {
+      "id": "5f85c497f24a8805",
+      "openerId": "900481804371394662",
+      "threadId": "1432044236202836251",
+      "optionName": "hi hi",
+      "createdAt": 1761496352477,
+      "closedAt": 1761496370439,
+      "mentionCount": 1,
+      "mentionTimestamps": [
+        1761496362674
+      ]
+    },
+    {
+      "id": "b72b8182519b7bfd",
+      "openerId": "900481804371394662",
+      "threadId": "1432046586946523390",
+      "optionName": "kk",
+      "createdAt": 1761496912889,
+      "closedAt": 1761496927894,
+      "mentionCount": 1,
+      "mentionTimestamps": [
+        1761496922081
+      ]
+    },
+    {
+      "id": "2c5a22dec780eaa2",
+      "openerId": "900481804371394662",
+      "threadId": "1432049177902317589",
+      "optionName": "hi hi",
+      "createdAt": 1761497530678,
+      "closedAt": 1761497621048,
+      "mentionCount": 1,
+      "mentionTimestamps": [
+        1761497618076
+      ]
+    },
+    {
+      "id": "d88def3d62a80985",
+      "openerId": "900481804371394662",
+      "threadId": "1432049291513434253",
+      "optionName": "kk",
+      "createdAt": 1761497557784,
+      "closedAt": 1761498205388,
+      "mentionCount": 1,
+      "mentionTimestamps": [
+        1761497610586
+      ]
+    },
+    {
+      "id": "b00f9c2434388589",
+      "openerId": "900481804371394662",
+      "threadId": "1432275182709379132",
+      "optionName": "hi hi",
+      "createdAt": 1761551414315,
+      "closedAt": 1761551428927,
+      "mentionCount": 0,
+      "mentionTimestamps": []
+    },
+    {
+      "id": "7ba8979529c7bc0e",
+      "openerId": "900481804371394662",
+      "threadId": "1432430348892897410",
+      "optionName": "hi hi",
+      "createdAt": 1761588408939,
+      "closedAt": null,
+      "mentionCount": 0,
+      "mentionTimestamps": []
+    },
+    {
+      "id": "92bf91c4a054fbcf",
+      "openerId": "900481804371394662",
+      "threadId": "1432677356970971209",
+      "optionName": "تكت المساعده🤷🏻‍♂️",
+      "createdAt": 1761647300247,
+      "closedAt": 1761647316747,
+      "mentionCount": 1,
+      "mentionTimestamps": [
+        1761647309424
+      ]
+    },
+    {
+      "id": "59e15ebf09392eca",
+      "openerId": "1207284365294440458",
+      "threadId": "1433095320929177725",
+      "optionName": "تكت المساعده🤷🏻‍♂️",
+      "createdAt": 1761746951196,
+      "closedAt": 1761749046407,
+      "mentionCount": 1,
+      "mentionTimestamps": [
+        1761747768122
+      ]
+    }
+  ],
+  "mentionCooldowns": {}
+}

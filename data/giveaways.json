@@ -1,0 +1,25 @@
+{
+  "giveaways": [
+    {
+      "id": "mh9k10qy26k0g",
+      "guildId": "1035885567826735175",
+      "channelId": "1395043930579665077",
+      "messageId": "1432456928428036166",
+      "prize": "hi",
+      "description": "h",
+      "winners": [
+        "900481804371394662"
+      ],
+      "hostedBy": "900481804371394662",
+      "requirements": null,
+      "entries": [
+        "900481804371394662"
+      ],
+      "endsAt": 1761594805354,
+      "ended": true,
+      "createdAt": 1761594745354,
+      "endedBy": null,
+      "endedAt": 1761594805372
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "guilds": {
+    "1035885567826735175": {
+      "welcome": {
+        "enabled": true,
+        "channelId": "1394961759198253167",
+        "message": "مرحبا بك في سيرفر{server} لشراء و اخذ اي بوت تريدة\n\nاتمني منك قراء القوانين <#1396566438201917630> لعدم تعرضك للمشاكل \n\n{user}  العضو رقم {membercount}"
+      },
+      "autorole": {
+        "enabled": true,
+        "memberRoleId": "1395037447477264466",
+        "botRoleId": null
+      }
+    }
+  }
+}

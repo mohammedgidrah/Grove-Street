@@ -1,0 +1,51 @@
+{
+  "voices": [
+    {
+      "channelID": "1432052216189157639",
+      "ownerID": "900481804371394662",
+      "panelMessageId": "1432052227069186118",
+      "active": false,
+      "trustedUsers": [
+        "1139654758093832293"
+      ],
+      "bannedUsers": [],
+      "settings": {
+        "locked": false,
+        "hidden": false,
+        "limit": 0
+      },
+      "createdAt": 1761498254806,
+      "deletedAt": 1761498276292
+    },
+    {
+      "channelID": "1432052311345205348",
+      "ownerID": "900481804371394662",
+      "panelMessageId": "1432052322619621536",
+      "active": false,
+      "trustedUsers": [],
+      "bannedUsers": [],
+      "settings": {
+        "locked": false,
+        "hidden": false,
+        "limit": 0
+      },
+      "createdAt": 1761498277487,
+      "deletedAt": 1761498315312
+    },
+    {
+      "channelID": "1432682294946172951",
+      "ownerID": "900481804371394662",
+      "panelMessageId": "1432682307914829935",
+      "active": false,
+      "trustedUsers": [],
+      "bannedUsers": [],
+      "settings": {
+        "locked": true,
+        "hidden": false,
+        "limit": 1
+      },
+      "createdAt": 1761648477471,
+      "deletedAt": 1761648490768
+    }
+  ]
+}
