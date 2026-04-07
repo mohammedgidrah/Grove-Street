@@ -5,11 +5,7 @@
       "initialMessage": "مرحبا بك في تكت المساعده، اتمني منك انتظار ادمن للمساعده و حل مشاكلك للسيرفر او البوت، تستطيع ايضا استخدام الذكاء الاصطناعي الخاص بنا ان كان اي مساعده في البرمجه او اي لغة برمجه \n\n\nWelcome to the help ticket, I hope you wait for an admin to help and solve your problems with the server or the bot. You can also use our artificial intelligence if you need any help with programming or any programming language.",
       "createdAt": 1761647218681
     },
-    {
-      "name": "بوت خاص 🤖",
-      "initialMessage": "مرحبا بك اتمني منك انتظار المبرمج الذي سيستلم التكت لعمل البوت الخاص بك المطلوب \n\nWelcome, I hope you wait for the programmer who will receive the ticket to create your required bot",
-      "createdAt": 1761647251435
-    }
+    
   ],
   "tickets": [
     {
